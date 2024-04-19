@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\DomashnaSZad\DomashnaSZad\bin\Debug\net8.0\DomashnaSZad.exe
+C:\Users\encho\source\repos\DomashnaSZad\DomashnaSZad\bin\Debug\net8.0\DomashnaSZad.deps.json
+C:\Users\encho\source\repos\DomashnaSZad\DomashnaSZad\bin\Debug\net8.0\DomashnaSZad.runtimeconfig.json
+C:\Users\encho\source\repos\DomashnaSZad\DomashnaSZad\bin\Debug\net8.0\DomashnaSZad.dll
+C:\Users\encho\source\repos\DomashnaSZad\DomashnaSZad\bin\Debug\net8.0\DomashnaSZad.pdb
+C:\Users\encho\source\repos\DomashnaSZad\DomashnaSZad\obj\Debug\net8.0\DomashnaSZad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\DomashnaSZad\DomashnaSZad\obj\Debug\net8.0\DomashnaSZad.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\DomashnaSZad\DomashnaSZad\obj\Debug\net8.0\DomashnaSZad.AssemblyInfo.cs
+C:\Users\encho\source\repos\DomashnaSZad\DomashnaSZad\obj\Debug\net8.0\DomashnaSZad.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\DomashnaSZad\DomashnaSZad\obj\Debug\net8.0\DomashnaSZad.dll
+C:\Users\encho\source\repos\DomashnaSZad\DomashnaSZad\obj\Debug\net8.0\refint\DomashnaSZad.dll
+C:\Users\encho\source\repos\DomashnaSZad\DomashnaSZad\obj\Debug\net8.0\DomashnaSZad.pdb
+C:\Users\encho\source\repos\DomashnaSZad\DomashnaSZad\obj\Debug\net8.0\DomashnaSZad.genruntimeconfig.cache
+C:\Users\encho\source\repos\DomashnaSZad\DomashnaSZad\obj\Debug\net8.0\ref\DomashnaSZad.dll
