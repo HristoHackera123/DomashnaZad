@@ -12,3 +12,4 @@ C:\Users\encho\source\repos\DomashnaSZad\DomashnaSZad\obj\Debug\net8.0\refint\Do
 C:\Users\encho\source\repos\DomashnaSZad\DomashnaSZad\obj\Debug\net8.0\DomashnaSZad.pdb
 C:\Users\encho\source\repos\DomashnaSZad\DomashnaSZad\obj\Debug\net8.0\DomashnaSZad.genruntimeconfig.cache
 C:\Users\encho\source\repos\DomashnaSZad\DomashnaSZad\obj\Debug\net8.0\ref\DomashnaSZad.dll
+C:\Users\encho\source\repos\DomashnaSZad\DomashnaSZad\obj\Debug\net8.0\DomashnaSZad.sourcelink.json
